@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/Placement/app/src/main/res/layout/activity_apply_job.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/Placement/app/src/main/res/layout/activity_get_companies.xml" value="0.1" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/Placement/app/src/main/res/layout/activity_recruiter_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/Placement/app/src/main/res/layout/activity_recruiter_register.xml" value="0.25" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/Placement/app/src/main/res/layout/activity_show_applicant.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/Placement/app/src/main/res/layout/activity_student_home.xml" value="0.25" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/Placement/app/src/main/res/layout/activity_student_login.xml" value="0.25" />
+        <entry key="..\:/Users/harsh/AndroidStudioProjects/Placement/app/src/main/res/layout/activity_student_register.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/shrey/AndroidStudioProjects/Placement/app/src/main/res/layout/activity_recruiter_login.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/shrey/AndroidStudioProjects/Placement/app/src/main/res/layout/activity_student_login.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/shrey/AndroidStudioProjects/Placement/app/src/main/res/layout/activity_student_register.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/drawable/button_light.xml" value="0.1395" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/drawable/custom_button.xml" value="0.1395" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/drawable/custom_input.xml" value="0.1" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/layout/activity_payment.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/layout/activity_select_building.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/layout/activity_select_city.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/layout/activity_select_date_time.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/layout/activity_show_invoice.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/layout/activity_updatepassword.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/shrey/SmartParkingSystem/app/src/main/res/layout/activity_userprofile.xml" value="0.1933876811594203" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
